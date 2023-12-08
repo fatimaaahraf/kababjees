@@ -1,0 +1,239 @@
+body {
+    background-color: rgb(36, 36, 36);
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.div1 {
+    color: beige;
+    word-spacing: 50px;
+    letter-spacing: 5px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.image {
+    background-image: url(s9millat\ pic1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1550px;
+}
+
+.div2 {
+    color: beige;
+    margin: 250px;
+    word-spacing: 20px;
+    font-size: x-large;
+    font-family: "Hedvig Letters Sans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.div1:hover {
+    color: rgb(222, 13, 13);
+}
+.about{
+    color: beige;
+}
+
+.div3 {
+    color: rgb(108, 104, 104);
+    margin: 100px;
+    font-size: x-large;
+
+}
+
+.div4 {
+    background-image:url(back1.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+    background-size: cover;
+    font-size: larger;
+    font-weight: bolder;
+    color: beige;
+    margin-top: 80px;
+}
+
+.distance {
+    word-spacing: 50px;
+    padding: 50px;
+}
+.italic{
+    font-size: x-large;
+    font-weight: bolder;
+    visibility: visible;
+    color: beige;
+    margin-top: -1000;
+}
+
+.red {
+     border-bottom: 4px solid orange;
+     margin-left: 560px;
+     margin-right: 560px;
+     padding-top: 40px;
+}
+.only{
+    word-spacing: normal;
+    padding-top: 30px;
+    color: rgb(80, 77, 77)
+}
+.ig{
+    color: beige;
+    font-size: xx-large;
+}
+button{
+    width: 150px;
+    height: 50px;
+    font-size: larger;
+    background-color: rgb(168, 137, 50);
+    color: black;
+    border-radius: 10px;
+}
+.ig:hover{
+    border-bottom: 1px solid beige;
+    margin-left: 650px;
+    margin-right: 650px;
+}
+.div5{
+    background-image: url(16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    word-spacing: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.border{
+    padding-top: 30px;
+    word-spacing: normal;
+    color: beige;
+    border-bottom: 5px solid orange;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-size: xx-large;
+}
+.locations{
+    word-spacing: 80px;
+    padding-top: 70px;
+}
+.H{
+    margin-left: 80px;
+    font-size: xx-large;
+    color: rgb(168, 137, 50);
+    margin-top: -40px;
+}
+.lo{
+    margin-left: 40px;
+    margin-top:  20px;
+}
+.D{
+    margin-top: -40px;
+    margin-left: 40px;
+    font-size: xx-large;
+    color: rgb(168, 137, 50);
+}
+.pani{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 470px;
+    margin-top: -75px;
+}
+.sand{
+    margin: 0px;
+    padding: 0px;
+    margin-top: -20px;
+    margin-left: 30px;
+
+}
+.hy{
+    padding: 0px;
+    margin: 0px;
+    margin-right: 60px;
+    margin-top: -40px;
+    font-size: xx-large;
+    color: rgb(168,137,50);
+}
+.ca{
+    margin: 0px;
+    margin-right: 220px;
+}
+.village{
+    margin: 0px;
+    margin-right: 400px;
+    margin-top: -70px;
+}
+.shaheed{
+    color: rgb(168, 137, 50);
+    font-size: xx-large;
+    padding: 0px;
+    margin: 0px;
+    margin-top: -45px;
+    
+}
+.tion{
+    margin: 0px;
+    padding: 0px;
+    margin-right: 240px;
+}
+.road{
+    margin-right: 30px;
+    margin-top: -30px;
+}
+.word{
+    word-spacing: normal;
+    color: rgb(236, 236, 190);
+    font-size: xx-large;
+    font-weight: bolder;
+    border-bottom: 4px solid orange;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+.web{
+    padding-top: 50px;
+}
+.hover1:hover{
+    transform: scale(1);
+    width: 320px;
+    height: 320px;
+}
+.hover2:hover{
+    transform: scale(1);
+    height: 320px;
+    width: 320px;
+}
+.hover3:hover{
+    transform: scale(1);
+    width: 320px;
+    height: 320px;
+}
+.hover4:hover{
+    transform: scale(1);
+    width: 320px;
+    height: 320px;
+}
+.div7{
+    margin-top: 70px;
+   background-image: url(sac1.jpg); 
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-blend-mode: lighten;
+   padding-left: 90px;
+   padding-right: 90px;
+}
+.us{
+    color: rgb(168, 137, 50);
+    font-size: xx-large;
+    padding-top: 60px;
+    border-bottom: 3px solid rgb(168, 137, 50);
+    margin-right: 1130px;
+}
+.para{
+    color: beige;
+    font-size: x-large;
+}
+.color{
+    color: rgb(193, 151, 34);
+    font-weight: normal;
+}
+.graph{
+    color: beige;
+    font-size: larger;
+    padding-left: 50px;
+}
