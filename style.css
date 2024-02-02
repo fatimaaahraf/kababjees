@@ -2,9 +2,7 @@ body {
     background-color: rgb(36, 36, 36);
     font-family: "Bebas Neue", sans-serif;
 }
-.div1{
-    margin-bottom: 0px;
-}
+
 
 .div1 a {
     color: beige;
@@ -48,6 +46,7 @@ body {
 
 .div4 {
     background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(back1.jpg);
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -93,13 +92,13 @@ button{
     border-radius: 10px;
 }
 .ig:hover{
-    border-bottom: 1px solid beige;
-    margin-left: 650px;
-    margin-right: 650px;
+    text-decoration: underline;
+
 }
 .div5{
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(16.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     word-spacing: 50px;
@@ -195,28 +194,28 @@ button{
     padding-top: 50px;
 }
 .hover1:hover{
-    transform: scale(1);
     width: 320px;
     height: 320px;
+    box-sizing: border-box;
 }
 .hover2:hover{
-    transform: scale(1);
     height: 320px;
     width: 320px;
+    box-sizing: border-box;
 }
 .hover3:hover{
-    transform: scale(1);
+    box-sizing: border-box;
     width: 320px;
     height: 320px;
 }
 .hover4:hover{
-    transform: scale(1);
+    box-sizing: border-box;
     width: 320px;
-    height: 320px;
+    /* height: 320px; */
 }
 .div7{
     margin-top: 70px;
-   background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(sac1.jpg); 
+   background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url(sac1.jpg); 
    background-size: cover;
    background-repeat: no-repeat;
    padding-left: 90px;
